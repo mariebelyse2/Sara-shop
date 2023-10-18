@@ -1,0 +1,11 @@
+ADMIN:
+username: belyse
+mot de passe: Marie@2023
+
+EDITEUR
+username: JOY
+mot de passe:Marie@2023
+
+EDITEUR
+username:Christ
+mot de passe :Marie@2023
